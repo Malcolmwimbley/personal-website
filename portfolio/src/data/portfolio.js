@@ -1,19 +1,19 @@
 export default [
     {
         title: 'Teminal Website',
-        imgUrl: '',
+        imgUrl: '/assets/dev-portfolio.jpg',
         stack: ['HTML','CSS','Javascript'],
         link: 'https://wwww.google.com',
     },
     {
         title: 'Developer Portfolio',
-        imgUrl: '',
+        imgUrl: '/assets/terminal-website.jpg',
         stack: ['HTML','CSS','Javascript'],
         link: 'https://wwww.google.com',
     },
     {
         title: 'Minecraft',
-        imgUrl: '',
+        imgUrl: '/assets/terminal-website.jpg',
         stack: ['HTML','CSS','Javascript'],
         link: 'https://wwww.google.com',
     },
