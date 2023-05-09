@@ -5,7 +5,7 @@ import timeline from "../data/timeline";
 function Timeline() {
     return (
        <div className="flex flex-col md:flex-row justify-center my-20">
-          <div className="xl:w-1/4 lg:w-1/2 md:w-7/12 sm:w-full">
+          <div className="xl:w-1/3 md:w-7/12 sm:w-full">
              {timeline.map(item => (
                 <TimelineItem 
                    year={item.year}
